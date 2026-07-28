@@ -7,6 +7,10 @@
 
 ---
 
+https://github.com/user-attachments/assets/9782f182-023a-492d-99a5-972c005e133e
+
+---
+
 ## 📌 The Problem
 Driver drowsiness is a leading cause of road accidents worldwide. Most existing systems detect drowsiness too late or trigger annoying false alarms on every squint, slow blink, or glare.
 
